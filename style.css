@@ -1,7 +1,6 @@
 h1
 {
   color: white;
-  font-size: 15px;
 }
 
 body 
@@ -22,37 +21,27 @@ body
 h3
 {
    color: blue;
-   font-size: 15px;
 }
 
 h4
 {
    color: blue;
-   font-size: 15px;
 }
 
 
 h5
 {
    color: blue;
-   font-size: 15px;
 }
 
 h6
 {
    color: blue;
-   font-size: 18px;
-}
-
 }
 
 h7
 {
    color: blue;
-   font-size: 15px;
 }
-h8
-{
-   color: blue;
-   font-size: 15px;
-}
+
+
